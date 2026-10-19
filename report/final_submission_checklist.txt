@@ -1,0 +1,15 @@
+CAPSTONE 48 — Final Submission Checklist
+[✓] GitHub repository created and URL added to report.
+    https://github.com/nithiyadharshini06-del/capstone-48-e-waste-india
+
+[ ] Open all three infographic PNGs at full size and proofread all text.
+[ ] Confirm every numeric claim matches verification_register.csv.
+[ ] Confirm alt text in infographics/captions_and_alt_text.docx describes final artwork.
+[ ] Confirm source URLs are readable and current.
+[ ] Open the PowerPoint and check image placement / text overflow.
+[ ] Upload the project folder to the college Google Drive.
+[ ] Confirm Drive sharing permissions with the instructor.
+[ ] If required, export a short demo video and add its real link.
+[ ] List only tools actually used; note that free-tier limits can change.
+
+Only mark an item complete after personally checking it. The GitHub item is marked complete based on the repository URL supplied by the student; repository contents were not independently verified here.

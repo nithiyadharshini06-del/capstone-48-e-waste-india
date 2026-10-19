@@ -1,0 +1,9 @@
+Claim ID,Fact / claim,Context / qualification
+Topic,E-Waste in India,Project focus for Indian college students
+F1,"India generated 1,254,286.55 metric tonnes of e-waste in FY 2023–24.","CPCB estimate reported by Ministry of Environment, Forest and Climate Change in a PIB release dated 24 July 2025."
+F2,"India generated 1,397,955.59 metric tonnes of e-waste in FY 2024–25.","CPCB estimate reported by Ministry of Environment, Forest and Climate Change in a PIB release dated 24 July 2025."
+F3,"The same PIB table reports 61.94% for FY 2023–24 and 70.71% for FY 2024–25 as e-waste 'collected, dismantled and recycled/disposed'.",Do not call this a pure recycling rate; retain the source's combined wording.
+F4,The Global E-waste Monitor 2024 reports 62 million tonnes of e-waste generated globally in 2022.,Global figure; do not compare directly with India's annual figures without explaining different scope.
+F5,The global monitor reports 22.3% (about 13.8 million tonnes) was documented as formally collected and recycled in 2022.,Global formal collection/recycling indicator; not directly comparable with India's combined government metric.
+Environmental context,"Improper handling, open burning, and unsafe dismantling can expose people and the environment to hazardous substances.",Use cautious wording and cite WHO / ITU-UNITAR / CPCB sources; do not claim a specific local impact without local evidence.
+Student actions,Repair/reuse where practical; separate e-waste; protect personal data; use registered/authorised collection and recycling channels.,Action guidance; check local collection arrangements before drop-off.

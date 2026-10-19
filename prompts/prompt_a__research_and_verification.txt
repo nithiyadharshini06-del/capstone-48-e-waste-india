@@ -1,0 +1,11 @@
+Act as a research assistant for my college VAC capstone project, “AI Infographic Set on E-Waste in India.”
+
+Research verified facts about Indian e-waste generation, environmental risks, and responsible recycling.
+1. Prioritize CPCB, Government of India, peer-reviewed research, WHO, and UN/ITU publications.
+2. Provide at least 8 candidate factual claims with original source URL, publication date, data year, units, and relevant page/table.
+3. Distinguish measured data from estimates and recommendations.
+4. Explain the scope and definition of every statistic.
+5. Flag conflicting figures, outdated data, missing evidence, and unsupported claims.
+6. Never invent citations or claim a source has been checked when it has not.
+7. Recommend facts suitable for three student-friendly infographics.
+Return a table. Mark a claim “Verified” only after examining its original source.

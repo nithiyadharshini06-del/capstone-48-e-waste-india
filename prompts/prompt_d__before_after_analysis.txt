@@ -1,0 +1,4 @@
+Compare the initial AI-generated draft of my e-waste infographic with the corrected final version.
+Create a table with: issue, original content, evidence/source, correction, reason, impact.
+Check fabricated statistics, missing citations, incorrect units, misleading comparisons, accessibility, visual hierarchy, excessive text, and unsupported environmental/health claims.
+Only report changes supported by actual before and after versions. End with how human verification improved accuracy, accessibility, and design quality.

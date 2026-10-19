@@ -1,0 +1,13 @@
+CAPSTONE 48 — Final Demo Script (about 3 minutes)
+
+Hello, my name is S Nithiya Dharshini from AI & Data Science at Dhanalakshmi College of Engineering. My project is an AI-assisted infographic set about e-waste in India for college students.
+
+The first infographic, “The E-Waste Challenge,” shows the official figures reported by the Government of India using CPCB estimates: 1,254,286.55 metric tonnes in FY 2023–24 and 1,397,955.59 metric tonnes in FY 2024–25. The comparison chart includes selected years and does not invent a missing year.
+
+The second infographic, “Why E-Waste Matters,” explains that unsafe burning, dumping, and dismantling can harm people and the environment. It contrasts these risks with safe separation, authorised collection, and responsible material recovery.
+
+The third infographic, “What Students Can Do,” gives five practical steps: repair and reuse devices, keep e-waste separate, protect personal data, use authorised channels, and choose durable devices.
+
+I used AI to help plan the research, draft prompts and captions, and structure the visuals. I checked the headline figures against original PIB and ITU sources and recorded the evidence in a verification register. One important limitation is that India’s 70.71% figure is a combined collection, dismantling, recycling and disposal metric, not a pure recycling rate. The global 22.3% figure has a different definition, so I do not compare them directly.
+
+The final project includes three infographics, alt text, source list, prompt library, verification report, before-and-after analysis, and a presentation deck. I will now share the project repository and college Drive link after uploading the files. Thank you.

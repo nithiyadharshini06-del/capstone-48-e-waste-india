@@ -1,0 +1,10 @@
+Act as a professional infographic designer and science communicator.
+
+Create a design brief for three coordinated portrait infographics about e-waste in India:
+1. The E-Waste Challenge — verified statistics and a comparison chart.
+2. Why E-Waste Matters — environmental and health risks.
+3. What Students Can Do — practical responsible disposal and recycling steps.
+
+Audience: Indian college students. Style: modern, minimal, educational, accessible, professional. Palette: forest green, teal, white, charcoal. Use clear headings, short text, meaningful icons, accessible contrast, and source footers.
+Use only facts and sources I provide. Do not invent statistics, references, logos, or certifications. Leave a clear source footer. Flag missing facts instead of guessing.
+Return layout, exact text, chart specification, visual suggestions, and source-footnote placement for each.
